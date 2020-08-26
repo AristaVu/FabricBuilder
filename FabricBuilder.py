@@ -8,7 +8,7 @@ from cvplibrary import Form
 #
 
 #host = CVPGlobalVariables.getValue(GlobalVariableNames.CVP_IP)
-host = '10.251.0.19'
+host = 'ENTER YOUR IP ADDRESS'
 user = CVPGlobalVariables.getValue(GlobalVariableNames.CVP_USERNAME)
 password = CVPGlobalVariables.getValue(GlobalVariableNames.CVP_PASSWORD)
 parentName = 'Tenant'
